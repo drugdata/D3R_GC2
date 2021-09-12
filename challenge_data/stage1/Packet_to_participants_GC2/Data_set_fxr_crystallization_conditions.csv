@@ -1,0 +1,38 @@
+Sturucture ID,Compound ID,Crystallization condition,SMILES
+1btoj,FXR_1,"0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",COc1ccc(cc1OC)N(CC(=O)NC(C(C)C)C(C)C)S(=O)(=O)c2ccc(C)cc2
+1phif,FXR_2,"0.2 M Li Sulfate, 0.1 M Tris pH 8.5, 25% w/v PEG 3350",Cc1cccc(C)c1Nc2c(nc3cccc(C)n23)c4c(F)cccc4F
+1ymrc,FXR_3,"0.1M Bis-Tris pH 6.5, 2M Ammonium Sulfate",Fc1ccc(\C=C\C(=O)N(C2CCCCC2)C(=O)NC3CCCCC3)cc1
+1pdbc,FXR_4,"0.1M Bis-Tris pH 6.5, 2M Ammonium Sulfate",Cc1onc(c2ccc(Cl)cc2Cl)c1C(=O)N(C3CCCCC3)C4CCCCC4
+1lrpw,FXR_5,"0.1 M Bis-Tris pH 6.0, 20% w/v PEG 3350",CCOC(=O)C1=CN(CC(C)(C)c2c1[nH]c3ccccc23)C(=O)c4ccc(F)c(F)c4
+1txca,FXR_6,"0.1 M Bis-Tris pH 6.5, 24% w/v PEG 3350",O=C(NC1CCCCC1)[C@H](C1CCCCC1)n1c2ccccc2nc1c1ccc(OC)cc1OC
+1dqzc,FXR_7,"0.2 M Na Chloride, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",O=C(NC1CCCCC1)[C@H](C1CCCCC1)n1c2ccccc2nc1c1ccc(s1)c1ccccc1
+1eujj,FXR_8," 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",c1(n([C@H](C(=O)NC2CCCCC2)C2CCCCC2)c2c(n1)cccc2)c1ccc(cc1)CO
+1ytut,FXR_9,"0.1 M BIS-TRIS 5.5 pH, 25%PEG3350",O=C(NC1CCCCC1)[C@H](C1CCCCC1)n1c2ccccc2nc1c1ccc(cc1)c1[nH]nnn1
+1sjpr,FXR_10,25% w/v PEG 1500,OC(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c4cccs4)c5cc(Br)ccc25)cc1
+1xxar,FXR_11,"0.2M MgCl2, 0.1M HEPES pH 7.5, 25%PEG3350",Brc1ccc2N(Cc3ccc(cc3)c4nnn[nH]4)C(=O)C5(CCN(CC5)S(=O)(=O)c6cccs6)c2c1
+1kjyp,FXR_12,"0.2M MgCl2, 0.1M Tris pH 8.5, 25%PEG3350",OC(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c4ccccc4Cl)c5cc(Br)ccc25)cc1
+1hgaf,FXR_13,"0.2M NaCl, 0.1M Bis-Tris pH 6.5, 25% PEG3350",c1ccc2c(c1)nc(n2[C@H](C(=O)NC1CCCCC1)C1CCCCC1)c1ccc(C(=O)c2ccccc2)cc1
+1uxjy,FXR_14,"0.1 M Bis-Tris pH 6.5, 20% w/v PEG MME 5000",COc1ccc(c(OC)c1)c2nc3ccccc3n2[C@@H](C4CCCCC4)C(=O)Nc5c(C)cccc5C
+1hvih,FXR_15,"0.2 M Mg Chloride, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",Fc1ccccc1S(=O)(=O)N2CCc3cc(C(=O)NCc4ccccc4)n(Cc5ccccc5)c3C2
+1ivlk,FXR_16,3.5 M Sodium Formate pH 7.0,CC(C)NC(=O)n1c2CN(CCc2cc1c3ccccc3)S(=O)(=O)c4cccs4
+1hqmf,FXR_17,"0.1 M HEPES pH 7.5, 2.0 M Ammonium Sulfate",CCOC(=O)c1ccc(NC(=O)c2c3CN(CCc3nn2c4ccccc4)S(=O)(=O)c5cccs5)cc1
+1nqqw,FXR_18,"0.2M MgCl2, 0.1M Tris pH 8.5, 25%PEG3350",C(=O)(c1ccc(cc1)Cl)N([C@@H](C1CCCCC1)C(=O)NC1CCCCC1)c1cc(ccc1)NC(=O)C
+1rfrr,FXR_19,"0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",[H][C@]1(CCCCO1)[C@@]([H])(C(=O)NC2CCCCC2)n3c4cc(c(cc4nc3c5ccc(cc5)Cl)F)Cl
+1rzch,FXR_20,"0.1 M Bis-Tris pH 6.5, 28% w/v PEG MME 2000",c1c(cc2c(c1)nc(n2[C@H](C(=O)NC1CCCCC1)C1CCCCC1)COc1ccc(cc1C)Cl)F
+1xivt,FXR_21,"0.2 M Na Chloride, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",Fc1cc2nc(c3ccc(Cl)cc3)n([C@@H](C4CCCCC4)C(=O)Nc5ccccc5)c2cc1F
+1rwui,FXR_22,"0.1 M Citric Acid pH 3.5, 3.0 M Sodium Chloride",c1(c(cc2c(c1)nc(n2[C@H](C(=O)NC1CCCCC1)C1CCCCC1)[C@@H](c1ccccc1)OC)F)F
+1zhbd,FXR_23,"0.2 M Mg Chloride, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",CC(C)c1onc(c2ccccc2Cl)c1C(=O)N[C@H](C)c3ccc4ccccc4c3
+1jski,FXR_24,"0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",Fc1ccccc1NC(=O)[C@H](C2CCCCC2)n3c(nc4cc(F)c(F)cc34)c5ccc(Cl)cc5
+1ifba,FXR_25,"0.1 M Bis-Tris pH 6.5, 28% w/v PEG MME 2000",c1(c(cc2c(c1)nc(n2[C@@H](C1CCCCC1)C(=O)Nc1c(cccc1)C#N)c1ccc(cc1)Cl)F)F
+1lkvm,FXR_26,25% w/v PEG 1500,Fc1cc2nc(c3ccc(nc3)n4cccn4)n([C@@H](C5CCCCC5)C(=O)NC6CCCCC6)c2cc1F
+1fymf,FXR_27,"0.2 M Mg Chloride, 0.1 M HEPES pH 7.5, 25% w/v PEG 3350",OC(=O)c1ccc(NC(=O)[C@H](C2CCCCC2)n3c(nc4cc(F)c(F)cc34)c5ccc(Cl)cc5)c(Cl)c1
+1rtaz,FXR_28," 0.2 M Ammonium Acetate, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",[H][C@@](COc1ccc(cc1F)C(=O)O)(C2CCCCC2)n3c4cc(c(cc4nc3c5ccc(cc5)Cl)F)F
+1hoia,FXR_29,"0.1M Bis-Tris pH 5.5, 2M Ammonium Sulfate",[H][C@@](COc1ccc(cc1)C(=O)O)(C2CCCCC2)n3c4cc(c(cc4nc3c5ccc(cc5)Cl)F)F
+1yfjn,FXR_30," 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",COc1ccc(c(OC)n1)c2nc3cc(F)ccc3n2[C@@H](C4CCCCC4)C(=O)N[C@@H]5CC[C@H](CC5)C(=O)O
+1wles,FXR_31," 0.2 M Ammonium Sulfate, 0.1 M HEPES pH 7.5, 25% w/v PEG 3350",CO[C@@H](c1nc2cc(F)c(F)cc2n1[C@@H](C1CCCCC1)C(=O)N[C@H]1CC[C@H](O)CC1)c1ccccc1
+1skpl,FXR_32,"0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",CO[C@@H](c1nc2cc(F)c(F)cc2n1[C@@H](C1CCCCC1)C(=O)N[C@H]1CC[C@H](O)CC1)c1ccccc1
+1kmrz,FXR_33,"0.2 M Mg Chloride, 0.1 M Bis-Tris pH 6.5, 25% w/v PEG 3350",CC(C)c1onc(c1COc2ccc(c(C)c2)c3ccc4c(cn(C)c4c3)C(=O)O)c5c(Cl)c[n+]([O-])cc5Cl
+1fggu,FXR_34,"0.1 M HEPES pH 7.5, 1.4 M Sodium Citrate",C[C@H](CCC(=O)Nc1cc(cc(c1)C(=O)O)C(=O)O)[C@H]2CC[C@H]3[C@@H]4CC[C@@H]5C[C@H](O)CC[C@]5(C)[C@H]4CC[C@]23C
+1ixdk,FXR_35,"0.1 M Bis-Tris pH 6.5, 28% w/v PEG MME 2000",C1CCCC(C1)[C@@H](C(=O)N[C@@H]1CC[C@H](CC1)OS(=O)(=O)O)n1c2c(nc1c1ccc(cc1)Cl)cc(c(c2)F)F
+1wgph,FXR_36,"0.1 M Bis-Tris pH 6.5, 28% w/v PEG MME 2000",n1(c(nc2c1cc(c(c2)F)F)c1ccc(c2nccs2)cc1)[C@H](C(=O)Nc1ccc(C(=O)O)cc1)C1CCCCC1
+1dvwb,Apo,"0.2M MgCl2, 0.1M HEPES pH 7.5, 25%PEG3350",
